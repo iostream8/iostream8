@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyanka Sharma</h1>
 <h3 align="center">I'm an aspiring AI/ML enthusiast with a solid foundation in Python programming. Currently diving deep into machine learning and artificial intelligence to build practical, real-world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iostream8&label=Profile%20views&color=0e75b6&style=flat" alt="iostream8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iostream8" alt="iostream8" /></a> </p>
 
 - 🌱 I’m currently learning **AI/ML and Deep Learning**
 
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,ML**
+- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,scikit-learn ,ML**
 
 - 📫 How to reach me **priyankasharma945956@gmail.com**
 
