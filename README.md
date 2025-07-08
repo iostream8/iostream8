@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Priyanka Sharma
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Currently+learning+Deep+Learning;Open+Source+Contributor;Building+Python+Projects)](https://github.com/iostream8)
+
 Welcome to my GitHub! I'm a passionate developer who enjoys building projects, solving problems, and continuously learning.
 
 ## 🚀 About Me
@@ -20,14 +22,13 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building projects, s
 
 ## 📈 GitHub Stats
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-Sharma&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-Sharma&layout=compact&theme=radical)](https://github.com/Priyanka-Sharma/github-readme-stats)
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=iostream8&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iostream8&layout=compact&theme=radical)](https://github.com/iostream8/github-readme-stats)
 
 ## 📫 Connect with me
 
-- ✉️ Email: *youremail@example.com*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 [Portfolio](https://your-portfolio-link.com) _(optional)_
+- ✉️ Email: [priyankasharma945956@gmail.com](mailto:priyankasharma945956@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/priyanka-sharma-86b23024b](https://www.linkedin.com/in/priyanka-sharma-86b23024b/)
 
 ---
 
