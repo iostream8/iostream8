@@ -15,8 +15,10 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building projects, s
 
 ### 🧑‍💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 📊 ML & Data Science Libraries  
+
+### 📊 ML & Python Libraries  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
@@ -26,7 +28,6 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building projects, s
 
 ### 🛠️ Platforms & Tools  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ### 🔧 Version Control & OS  
@@ -36,7 +37,7 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building projects, s
 
 ### 💻 IDEs & Dev Tools  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ## 📈 GitHub Stats
 
