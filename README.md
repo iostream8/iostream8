@@ -6,19 +6,37 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building projects, s
 
 ## 🚀 About Me
 
-- 🎓 I'm currently learning advanced topics in **Python**, **Machine Learning**, and **Data Science**
+- 🎓 I'm currently learning advanced topics in **Python**, **Machine Learning**.
 - 💻 I enjoy working on real-world datasets and building insightful, data-driven solutions
 - 🌱 Currently exploring: `Deep Learning`, `Open Source Contribution`, and `Web Development`
-- 🛠️ Always experimenting with: `Python`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
+- 🛠️ Always experimenting with: `Python`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`,`streamlit`
 
-## 🧰 Technologies & Tools
+## 🚀 Tech Stack
 
+### 🧑‍💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### 📊 ML & Data Science Libraries  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-7ABADF?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 🛠️ Platforms & Tools  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+### 🔧 Version Control & OS  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 💻 IDEs & Dev Tools  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
